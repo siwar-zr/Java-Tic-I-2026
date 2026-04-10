@@ -58,5 +58,8 @@ public class Demo {
         /*Computer obj1 = new Computer();
         obj1.playMusic();
         System.out.println(obj1.getMeSmthg(1));*/
+
+        /*Mobile mo = new Mobile();
+        System.out.println(mo.type);*/
     }
 }
