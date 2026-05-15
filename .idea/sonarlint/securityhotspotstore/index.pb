@@ -19,3 +19,9 @@ A
 src/poo/Test.java,9\9\99f28910fbe8a373672dac6579efdba6e3194ba6
 K
 src/encapsulation/Demo.java,4\7\47a27fcd3a2cc402d1dc01b1e10f23c0ffac63df
+L
+src/lesCollections/Demo.java,f\8\f8dcd3c423ec9877b96bd11713d2f174ec7106c8
+C
+src/Conditions.java,6\7\67d1b32dc107aead1358e13fd40d403684952d4a
+G
+src/streamApi/Demo.java,b\b\bb5e359be4abd9d0ba8f8625e0e6a940787e65cd
